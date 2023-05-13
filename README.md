@@ -10,7 +10,8 @@ I am a skilled software developer and team lead with a successful track record o
 *   ✉️  You can contact me at [brianpatrao1996@gmail.com](mailto:brianpatrao1996@gmail.com)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on projects
-*   ⚡  I love most sports and a HUGE fan of deep house and melodic techno genres### Skills 
+*   ⚡  I love most sports and a HUGE fan of deep house and melodic techno genres
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
