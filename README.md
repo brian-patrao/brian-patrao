@@ -8,7 +8,7 @@ I am a skilled software developer and team lead with a successful track record o
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [brianpatrao1996@gmail.com](mailto:brianpatrao1996@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning System Design
 * 🤝  I'm open to collaborating on projects
 * ⚡  I love most sports and a HUGE fan of deep house and melodic techno genres
 
